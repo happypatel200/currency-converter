@@ -68,5 +68,5 @@ Open the URL shown in terminal
 ---
 
 ## Screenshots
-
+![image alt](https://github.com/happypatel200/currency-converter/blob/d9bae00eba834d551c9dc1504cbc594ce1d0b743/S1.jpeg)
 
